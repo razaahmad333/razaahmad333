@@ -4,20 +4,12 @@
 - 🌱 I’m currently learning firebase and angular 
 -  👯 I’m looking to collaborate on react projects
 -  How to reach me   
-   - Gmail - raza82504@gmail.com   
-   - Instagram - [ahmadrazakhan946](https://instagram.com/ahmadrazakhan946)
-- ⚡ Fun fact: Work like Hell : ELON MUSK
-<!--
-**razaahmad333/razaahmad333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   - Gmail - 📩 raza82504@gmail.com   
+   - Instagram - 🤳 [ahmadrazakhan946](https://instagram.com/ahmadrazakhan946)
+- ⚡ Fun fact: Work like Hell 👷‍♀️ : ELON MUSK
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Some of my 😎 PROJECTs are
+  -   [Mubaraah](https://mubaraa-edaf4.web.app/)
+  -   [Jokesman](https://stupefied-mcclintock-7fd1ca.netlify.app/)
+  -   [Graphiti](https://graphiti-dev.web.app/)
+  -   [Fylo clone landing page](https://condescending-thompson-721592.netlify.app/)
