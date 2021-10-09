@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+## AHMAD RAZA here
+- 🔭 I’m currently working on react project that uses an movie API and shows you every details about every movie
+- 🌱 I’m currently learning firebase and angular 
+-  👯 I’m looking to collaborate on react projects
+-  How to reach me   
+   - Gmail - raza82504@gmail.com   
+   - Instagram - [ahmadrazakhan946](https://instagram.com/ahmadrazakhan946)
+- ⚡ Fun fact: Work like Hell : ELON MUSK
 <!--
 **razaahmad333/razaahmad333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
