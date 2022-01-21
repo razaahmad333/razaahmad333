@@ -8,7 +8,7 @@
 -  👯 I’m looking to collaborate on react projects
 -  How to reach me   
    - Gmail - 📩 raza82504@gmail.com   
-   - Instagram - 🤳 [ahmadrazakhan946](https://instagram.com/ahmadrazakhan946)
+   
 - ⚡ Fun fact: Work like Hell 👷‍♀️ : ELON MUSK
 
 
