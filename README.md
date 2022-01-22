@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -78,4 +79,5 @@ let stacks = [
 
 
 # Social Media Handles 
-
+- [Twitter](https://twitter.com/AHMADRa01256865)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-raza-18835715b/)
