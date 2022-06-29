@@ -17,6 +17,7 @@ let languages = ["Javascript", "Typescript", "Python", "C++"];
 // frontend techs I know
 let front_end_techs = [
   "React.js",
+  "Vuejs",
   "Next.js",
   "SASS",
   "Chart.js",
@@ -25,10 +26,10 @@ let front_end_techs = [
 ];
 
 //backend techs I know
-let back_end_techs = ["Node.js", "Express.js", "mongoose", "AJAX"];
+let back_end_techs = ["Node.js", "Express.js", "Flask", "Django", "mongoose", "AJAX"];
 
 // css frameworks I know
-let css_techs = ["Bootstrap", "Materialize", "Tailwind", "SASS"];
+let css_techs = ["Bootstrap", "Materialize", "Tailwind", "SASS", "BulmaCSS"];
 
 // databases that I use
 let databases = ["MongoDB", "Firebase", "MySQL"];
