@@ -80,5 +80,5 @@ let stacks = [
 
 
 # Social Media Handles 
-- [Twitter](https://twitter.com/AHMADRa01256865)
-- [LinkedIn](https://www.linkedin.com/in/ahmad-raza-18835715b/)
+- [Twitter](https://twitter.com/ahmadraza946_)
+- [LinkedIn](https://www.linkedin.com/in/ahmadrazakhan946)
