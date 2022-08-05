@@ -1,10 +1,10 @@
 
 ### Hi there 👋
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## Myself Ahmad Raza
 
 ### I am a web developer with a slight interest in data analysis
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 # what I know 
 ```js
