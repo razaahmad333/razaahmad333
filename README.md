@@ -3,7 +3,7 @@
 
 ## Myself Ahmad Raza
 
-### I am a web developer with a slight interest in data analysis
+### I am a web developer who loves to write.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
 # what I know 
